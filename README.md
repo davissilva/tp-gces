@@ -176,5 +176,25 @@ SD Aluno - Resgatar Vantagem - UC02
 ![SD Aluno - Resgatar Vantagem - UC02](./projeto/Diagrama%20de%20Sequencia/SD%20Aluno%20-%20Resgatar%20Vantagem%20-%20UC02.png)
 
 
+## Instruções para execução do programa
+
+### Backend
+
+```
+cd Implementacao 
+mvn spring-boot:run
+```
+
+### Frontend
+
+http://localhost:3030
+
+```
+cd Implementacao/frontend
+npm start
+```
+
+
+
 
 
